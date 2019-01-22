@@ -1,10 +1,10 @@
 {
-  "name": "@maninacan/react-uikit-style-guide-template",
+  "name": "@maninacan/react-uikit-styleguide-template",
   "version": "0.0.1",
   "description": "As the name infers it is a React UIkit style-guide.",
   "author": "Maninacan",
   "license": "MIT",
-  "repository": "Maninacan/react-uikit-style-guide-template",
+  "repository": "Maninacan/react-uikit-styleguide-template",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "jsnext:main": "dist/index.es.js",

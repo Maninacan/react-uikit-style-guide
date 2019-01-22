@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 
-import ExampleComponent from 'react-uikit-style-guide'
+import ExampleComponent from 'react-uikit-styleguide-template'
 
 export default class App extends Component {
   render () {
