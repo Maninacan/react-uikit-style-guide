@@ -1,6 +1,6 @@
 {
-  "name": "react-uikit-style-guide-example",
-  "homepage": "https://Maninacan.github.io/react-uikit-style-guide",
+  "name": "react-uikit-style-guide-template-example",
+  "homepage": "https://Maninacan.github.io/react-uikit-style-guide-template",
   "version": "0.0.0",
   "license": "MIT",
   "private": true,
@@ -9,7 +9,7 @@
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
     "react-scripts": "^1.1.4",
-    "react-uikit-style-guide": "link:.."
+    "react-uikit-style-guide-template": "link:.."
   },
   "scripts": {
     "start": "react-scripts start",
